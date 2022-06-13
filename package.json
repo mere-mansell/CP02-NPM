@@ -1,0 +1,23 @@
+{
+  "name": "cp02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mere-mansell/CP02-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mere-mansell/CP02-NPM/issues"
+  },
+  "homepage": "https://github.com/mere-mansell/CP02-NPM#readme",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "nodemon": "^2.0.16"
+  }
+}
